@@ -3,3 +3,6 @@ ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5
 
 ##Ethereum Address Used to Generate Deposit Receiver Address:
 0x2cD349EdB914E483A83E1cA44171d15167EE3233
+
+##Link to the Etherscan explorer for the successful Force Bridge transaction.
+https://rinkeby.etherscan.io/tx/0x5153531abc4b1478a095f05e94e0ea2321a8f78da2f72992d88bc6d1e46c2886
