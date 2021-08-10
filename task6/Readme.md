@@ -6,3 +6,6 @@ ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5
 
 ##Link to the Etherscan explorer for the successful Force Bridge transaction.
 https://rinkeby.etherscan.io/tx/0x5153531abc4b1478a095f05e94e0ea2321a8f78da2f72992d88bc6d1e46c2886
+
+## link to the Nervos explorer for the successful Force bridge transaction.
+https://explorer.nervos.org/aggron/transaction/0xb0dd8acd4f2a2804b17b37a7d2866f1dcc181076890ead11b9fff43a964f2792
